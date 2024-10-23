@@ -13,5 +13,5 @@
 - git: {local-name: ecl_core,       version: release/0.62-noetic,         uri: 'https://github.com/stonier/ecl_core.git'}
 - git: {local-name: ecl_navigation, version: devel,         uri: 'https://github.com/stonier/ecl_navigation.git'}
 - git: {local-name: sophus,         version: release/1.2.x,        uri: 'https://github.com/stonier/sophus.git'}
-- git: {local-name: kobuki_core,    version: devel,         uri: 'https://github.com/yujinrobot/kobuki_core.git'}
+- git: {local-name: kobuki_core,    version: noetic,         uri: 'https://github.com/yujinrobot/kobuki_core.git'}
 
